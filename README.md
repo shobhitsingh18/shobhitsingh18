@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey👋🏼 I am Shobhit Singh
 🔭 I’m currently working on projects related to IoT & Embedded AI Systems<br>👯 I’m looking to collaborate on Innovative tech projects involving AI, IoT, and automation<br>🤝 I’m looking for help with Enhancing system efficiency, cloud integration, and real-time data processing<br>🌱 I’m currently learning Advanced programming, AI applications, and hardware-software integration<br>💬 Ask me about IoT, AI/ML, embedded systems, and technology-driven problem-solving<br>⚡ Fun fact: I enjoy blending hardware and software to build practical solutions and have experience in hackathons and leadership roles.
 
 
